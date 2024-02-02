@@ -10,7 +10,7 @@ Cette application Python a été créée pour effectuer le web scraping des publ
 ## Installation
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/MedHisoka11/WebScraper_Insta.git
+   git clone https://github.com/MedHisoka11/Web-Scraping-Instagram.git
 
 
 installez les dépendances :
